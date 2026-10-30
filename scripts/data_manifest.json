@@ -1,0 +1,423 @@
+{
+  "base_url": "https://zenodo.org/api/records/23810581/draft/files",
+  "files": {
+    "AIT-mail.log.gz": {
+      "bytes": 5016223,
+      "sha256": "4040ca9af98dd5d637aa4f12b953118067a3ad8c8ce7bcaab5d6af558ce26e20"
+    },
+    "AIT-mail_labels.jsonl.gz": {
+      "bytes": 9609424,
+      "sha256": "2ee83d0ce953b6dd8917588aa925e27d2d75be58393a1272042a3dbb41b37879"
+    },
+    "Apache.log.gz": {
+      "bytes": 349953,
+      "sha256": "0ec97d74d745865616cad16ada7c5370041a69504eee03739083825f47e84365"
+    },
+    "Apache_labels.jsonl.gz": {
+      "bytes": 639972,
+      "sha256": "bd110a3008c58c5402fb1096489b118bfe9f82a7286c13b55dcf65c1bb0b8962"
+    },
+    "BGL.log.gz": {
+      "bytes": 82656722,
+      "sha256": "92be32f1362f8e83e94160af6ece1bd591405e34be298ce44ca974927a0e736a"
+    },
+    "BGL_labels.jsonl.gz": {
+      "bytes": 35808985,
+      "sha256": "0628dc5f53b0c69fb3afe2806fc04d7022a934159c6850dad2056d51fc530379"
+    },
+    "HealthApp.log.gz": {
+      "bytes": 2564767,
+      "sha256": "ca84d397865d0a839d9a294d0e10035fa0b7e14e9d92fb4079d6642841d0ca6b"
+    },
+    "HealthApp_labels.jsonl.gz": {
+      "bytes": 4256810,
+      "sha256": "40ae3bbe0b0a6a1d9126bf24e9772948d6a5ad760f4ee571d9178fccf885b6b5"
+    },
+    "Mac.log.gz": {
+      "bytes": 1732314,
+      "sha256": "7af90d19c19cedd297ad6561988cab5ee4ca6e8454f2a8f9828e443e62a41678"
+    },
+    "Mac_labels.jsonl.gz": {
+      "bytes": 2378214,
+      "sha256": "84cebc856372fd579b820fdae30209bfb9a70889428c98be250009ad0f96ef72"
+    },
+    "OpenSSH.log.gz": {
+      "bytes": 5684379,
+      "sha256": "c42b39051a2607a767b8f1e290dcbdf577234e92d8395ba72aefbf31464902cf"
+    },
+    "OpenSSH_labels.jsonl.gz": {
+      "bytes": 8826245,
+      "sha256": "eb24618565cb5280262bd7c456ff794961fe3f2d12b035fb44bd695f59fc4778"
+    },
+    "Thunderbird.log.gz": {
+      "bytes": 218821840,
+      "sha256": "17edc8992d5b934b75ff500424470ecf23731009a617a5f26fc73ddc5f3cacb0"
+    },
+    "Thunderbird_labels.jsonl.gz": {
+      "bytes": 195171568,
+      "sha256": "94b7730c611a8b3dd5fbcb5a82fc77c97b2a5537224d8956c0b9a3dd71bf9a95"
+    },
+    "Zanbil.log.gz": {
+      "bytes": 380144014,
+      "sha256": "b5fea37e552fa5c1a3ce207a811a124897da9748c613a8fa2f6a8453ec615894"
+    },
+    "Zanbil_labels.jsonl.gz": {
+      "bytes": 621717493,
+      "sha256": "d99613512cd182e3a0f1b65039bce219b618bbb87fc525df95966bdd1ee64346"
+    },
+    "taxonomy.csv": {
+      "bytes": 41784,
+      "sha256": "d5b6d4ee1bac387612842f20e0d8675a38f91404b9099102b89047cc7510491e"
+    },
+    "statistics.csv": {
+      "bytes": 1391,
+      "sha256": "e203af59a192f893811e1a9e4d51c4de6ef6e81151e121261c4437e4dcc717a9"
+    },
+    "templates.csv": {
+      "bytes": 187396,
+      "sha256": "6f13771127690eccf344324f4faec32e914a67edc83148ca89225291db06aff7"
+    },
+    "THIRD_PARTY_NOTICES.txt": {
+      "bytes": 6833,
+      "sha256": "00046832d4140c465acb2358f1b2ea9dea26f8524464f1465d7bc59e79207eb2"
+    }
+  },
+  "archives": {
+    "Apache": {
+      "filename": "Apache.zip",
+      "bytes": 1228181,
+      "sha256": "f63fecf0ea3bb61a583adfb85ae50c5f28f4226a858dfc59173cad6fa20625cc",
+      "url": "https://zenodo.org/api/records/23810581/draft/files/Apache.zip/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+    },
+    "BGL": {
+      "filename": "BGL.zip",
+      "bytes": 118703951,
+      "sha256": "213297a1cd22071e72097cc9795aded6641b51fa65c8fc316775e6a5cc75573e",
+      "parts": [
+        {
+          "filename": "BGL.zip.001",
+          "bytes": 33554432,
+          "sha256": "5f46a8c3995e6e6a6feb873f2cc89eb74acc20f43d8f208401a04a41c300282a",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/BGL.zip.001/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "BGL.zip.002",
+          "bytes": 33554432,
+          "sha256": "5ce70f348dc8f4e837585281f440e18ae02ec6cf686b9a39f5b684d4ed283455",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/BGL.zip.002/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "BGL.zip.003",
+          "bytes": 33554432,
+          "sha256": "8f6be78c91bf68ba60fed454d5b04ba85aabd2fc514acc00244e013045d8b895",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/BGL.zip.003/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "BGL.zip.004",
+          "bytes": 18040655,
+          "sha256": "a00385952f6ca1f04a5854c1cda6009165f60814e5b84829b094255d2a94aab4",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/BGL.zip.004/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        }
+      ]
+    },
+    "OpenSSH": {
+      "filename": "OpenSSH.zip",
+      "bytes": 14748884,
+      "sha256": "25b8ef4c6afe4a48a6c2cb238d0d4710e2baa23b4d152db5485d704399d53839",
+      "url": "https://zenodo.org/api/records/23810581/draft/files/OpenSSH.zip/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+    },
+    "HealthApp": {
+      "filename": "HealthApp.zip",
+      "bytes": 7059845,
+      "sha256": "1825532567ba82fd42bb91dddd9ea01659b797205279153e048068ad866702f2",
+      "url": "https://zenodo.org/api/records/23810581/draft/files/HealthApp.zip/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+    },
+    "AIT-mail": {
+      "filename": "AIT-mail.zip",
+      "bytes": 14863911,
+      "sha256": "92111506e51bf0f21aeb63a263f0766f2257a33c677d070b11bc8a8317714af7",
+      "url": "https://zenodo.org/api/records/23810581/draft/files/AIT-mail.zip/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+    },
+    "Zanbil": {
+      "filename": "Zanbil.zip",
+      "bytes": 1002099763,
+      "sha256": "0575defe8e45935eeae3ab8028129c62902f5b37bdcf17f82898e90ec31b01a9",
+      "parts": [
+        {
+          "filename": "Zanbil.zip.001",
+          "bytes": 33554432,
+          "sha256": "d28ade7eb04dbb1818d9778a12df753dd8de352eacc57f1863d3f88b943e385e",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.001/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.002",
+          "bytes": 33554432,
+          "sha256": "767a80220b773ac2c03bf8944c6a038c3ce7b820833098a8b5a1ead71e90f95d",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.002/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.003",
+          "bytes": 33554432,
+          "sha256": "aedcba37610048d99cd3d2d1a6b4acd3dc6e9905ffcc2dcb82b3463f582220e4",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.003/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.004",
+          "bytes": 33554432,
+          "sha256": "bd968ca5e531860313c8f2d358ae9065633d8e6a408e11a861600cf208b34d4c",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.004/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.005",
+          "bytes": 33554432,
+          "sha256": "2bebf5f8ac812bb8f86f8c9559c9d48dbbab570b5f4969696631b32b579e56f8",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.005/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.006",
+          "bytes": 33554432,
+          "sha256": "71d038cbef06b6e3b315e1c8d90b4930ab8cb7c7d42f63cbd0644c3d76030eda",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.006/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.007",
+          "bytes": 33554432,
+          "sha256": "ede1c1863d3b81989832d176d80b59571590cdd3538113d222cb3a208a87c362",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.007/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.008",
+          "bytes": 33554432,
+          "sha256": "ad4fb2bc9fc94d8df20f38f78546ff01f8cc81ef7b3e49b725b574b1fed8346b",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.008/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.009",
+          "bytes": 33554432,
+          "sha256": "d610b3a82b6036123aa2e1a693fa7d44793753bbda65bc27bd634bb0cf625bdf",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.009/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.010",
+          "bytes": 33554432,
+          "sha256": "49c3eb0359e5082b25730fe90e4b7f514dafa87b5efe4c12d1e6eac0b7713aca",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.010/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.011",
+          "bytes": 33554432,
+          "sha256": "7617d1d717663c99e0a4aeffa4c5b613ee03418c82b636d2407d6be1530292d4",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.011/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.012",
+          "bytes": 33554432,
+          "sha256": "ea612ce2c32d293c2a8399dfaeb9351cd21d828b104163c88727b1f0b5fc77ed",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.012/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.013",
+          "bytes": 33554432,
+          "sha256": "f401336a0a24759ac9bfde24a1937d341418108d5eb8751e6b8ba7e82fa50402",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.013/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.014",
+          "bytes": 33554432,
+          "sha256": "a07ae063614610f74ec41ef19f4a0f970af96bda6a32cfe37b374d5c8b478427",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.014/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.015",
+          "bytes": 33554432,
+          "sha256": "7de3307de52d386f8eb9d4c9d4b685feb7697b5e0666ce77e40211f5745ee69b",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.015/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.016",
+          "bytes": 33554432,
+          "sha256": "102dd7ca2e3916287d1f3eac9c7c11c64b1fc930724da18f702a3570e208483e",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.016/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.017",
+          "bytes": 33554432,
+          "sha256": "0b48792580588367340540cc41528e744b4a97666fb7d9ca5dad23f8d182d564",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.017/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.018",
+          "bytes": 33554432,
+          "sha256": "274b92f5f2ce85677ff9758c5b1e70f9ca22f5260529eab8760a1e7e8e7ec680",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.018/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.019",
+          "bytes": 33554432,
+          "sha256": "dccec811c97f7911e1302b53d6f9126f439eadfacfe57fcf9299d8c1389290ec",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.019/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.020",
+          "bytes": 33554432,
+          "sha256": "1aa2b1e25b4c3bc699b14dd5fbb9407adf6c5a04cac847543ef4a417b6d8eaf2",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.020/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.021",
+          "bytes": 33554432,
+          "sha256": "112236b025509b46a5cda4c8b096b71f8c1349745a1266405fe4ddd213e00dc4",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.021/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.022",
+          "bytes": 33554432,
+          "sha256": "db30091a4f2a92223cf79623074a31ed62be58657e3c6cf73d5f7dcb62a62651",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.022/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.023",
+          "bytes": 33554432,
+          "sha256": "9af7d26a2210a7a71c860fcbd82018d6568dc0cf2b1a6e57fd32f666aeef6ea4",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.023/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.024",
+          "bytes": 33554432,
+          "sha256": "0d94adade03666335a0a8cfc99abc444de6ec65dbc070fb8ade532c05f7b7074",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.024/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.025",
+          "bytes": 33554432,
+          "sha256": "bc4ace7a4f445e2b7d000d58327ffe9b9e810c8ab7c0e2dfe1a0c5f77f7d2c8f",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.025/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.026",
+          "bytes": 33554432,
+          "sha256": "ae3fceb1f8016847fc24a6d8bda6def813355298ab0e1a86254aede35994472d",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.026/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.027",
+          "bytes": 33554432,
+          "sha256": "3c8f96e1cebba2828b8c4dba1620e5012417c9c6224d8dcd1eee7825dba47a19",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.027/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.028",
+          "bytes": 33554432,
+          "sha256": "ff6fd1bc8ec5c0261db3c5e5059b24223f2fd224490ac7d03b8ab2b712d2c224",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.028/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.029",
+          "bytes": 33554432,
+          "sha256": "5924986a861304ff4c3763b4f6467fe24553a4ffa022febca135eac98d32438c",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.029/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Zanbil.zip.030",
+          "bytes": 29021235,
+          "sha256": "4f3f640f27f6d0742bf17b587b27fc7f4e361072c969ddf97a7ff22b87cc8e3d",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Zanbil.zip.030/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        }
+      ]
+    },
+    "Mac": {
+      "filename": "Mac.zip",
+      "bytes": 4348772,
+      "sha256": "b01893af17a2beac05332fd88048befe60c5c6e5b910c2d9844532cc478a33be",
+      "url": "https://zenodo.org/api/records/23810581/draft/files/Mac.zip/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+    },
+    "Thunderbird": {
+      "filename": "Thunderbird.zip",
+      "bytes": 414231684,
+      "sha256": "715695be4f6d3da6adde4dedcea146a8ab82257d597a2b95937c2941624df481",
+      "parts": [
+        {
+          "filename": "Thunderbird.zip.001",
+          "bytes": 33554432,
+          "sha256": "afd45fe500e5454b42d66bccea63aa80af7ca52de1a3ed9b685cb501023679e0",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.001/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.002",
+          "bytes": 33554432,
+          "sha256": "d5b97571100ee9129ca26813ce83988ffbfb72b4b0f6bca1d366b8942fff1dd6",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.002/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.003",
+          "bytes": 33554432,
+          "sha256": "72b634d8eb6e107f4b8629b86b06e761cf9f79b9def745cf4d946ef410c0bb0a",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.003/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.004",
+          "bytes": 33554432,
+          "sha256": "e249f56c9198b74e955059cac92997928593d1b6546eb8d7036098c1e34a3266",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.004/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.005",
+          "bytes": 33554432,
+          "sha256": "386436cbc5e13556f641e07f2a3e4a7a72d91dea321862ffe904edf04e8cf653",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.005/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.006",
+          "bytes": 33554432,
+          "sha256": "f330f7c8fc5657f3b244b328eae3f9bd06d81fa23b037df46407f49d4cc8ca8a",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.006/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.007",
+          "bytes": 33554432,
+          "sha256": "d45cc72f321efc3abc81fffae6df0f5ed0cf2b998dddbd085f943ec928ce260e",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.007/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.008",
+          "bytes": 33554432,
+          "sha256": "ec5257c48ea51ce933b4ac33e847913d99a93d2daebf823deb919a1d62226312",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.008/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.009",
+          "bytes": 33554432,
+          "sha256": "bc90b49ff440952181f3fd03175d6f024a29bb178c92a7d84e1681edc39e2a54",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.009/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.010",
+          "bytes": 33554432,
+          "sha256": "c2d90ab06acd5bf1552fce2da508d2ed27ecb61acda717ccdf4340be4d476a15",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.010/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.011",
+          "bytes": 33554432,
+          "sha256": "161175cfd90476e667c9fadf1d0896cac19e843c2ab519e6dae67f10c58f3c8f",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.011/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.012",
+          "bytes": 33554432,
+          "sha256": "07c53ce77ea2415db20803599196f5dac7ebcbbf3fff76eb7838756c7298b15d",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.012/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        },
+        {
+          "filename": "Thunderbird.zip.013",
+          "bytes": 11578500,
+          "sha256": "9b7e48a5479dfd9c9a3b9aa412307b65827808c05afab11e55b78e5307eca5b4",
+          "url": "https://zenodo.org/api/records/23810581/draft/files/Thunderbird.zip.013/content?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA"
+        }
+      ]
+    }
+  },
+  "record_url": "https://zenodo.org/records/23810581?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUxNWVlNWI3LTE0Y2MtNGIxNC04NWZkLWZiNDI1OGZjZTU2YiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZGEwMjgxNDhhNjYyODFmOTJiODEyYmVmMzRjZTg3MyJ9.sz5FkmO9MRwItV7NOjViAqVTtTTAG2Ynva1y5sp1xWPKJe60H_i7qClJ-punZawMc1jUzKgJijh9wZiBHQJDZA",
+  "version": "1.0.0",
+  "record_id": "23810581"
+}

@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/LogIntelligence/UNLEASH",
+  "commit": "0a6dd3239668adae6b1160eeea5543034fb21849",
+  "license": "MIT",
+  "model_id": "FacebookAI/roberta-base",
+  "model_revision": "e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "source_files": {
+    "unleash/sampling/entropy_sampling.py": {
+      "sha256": "0fba2c13bf6cb32454d23a3740ebc50311086e1c0139edfa0883da6b9b40e88f",
+      "url": "https://raw.githubusercontent.com/LogIntelligence/UNLEASH/0a6dd3239668adae6b1160eeea5543034fb21849/unleash/sampling/entropy_sampling.py"
+    }
+  }
+}

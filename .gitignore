@@ -1,0 +1,21 @@
+# Publish the method, commands, README, method figure, and CI configuration.
+*
+!/.gitignore
+!/requirements.txt
+!/README.md
+!/run.sh
+!/scripts/
+!/scripts/*.py
+!/scripts/*.sh
+!/scripts/data_manifest.json
+!/logshield/
+!/logshield/*.py
+!/logshield/sampling_source.json
+!/tests/
+!/tests/test_*.py
+
+!/.github/
+!/.github/workflows/
+!/.github/workflows/build_and_test.yml
+!/figures/
+!/figures/overview.png

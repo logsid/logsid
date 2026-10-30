@@ -1,0 +1,56 @@
+name: Build and test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      PYTHONHASHSEED: "42"
+      PYTHONDONTWRITEBYTECODE: "1"
+      HF_HUB_OFFLINE: "1"
+      TRANSFORMERS_OFFLINE: "1"
+      HF_HUB_DISABLE_TELEMETRY: "1"
+      CUDA_VISIBLE_DEVICES: ""
+      OPENROUTER_API_KEY: ""
+    steps:
+      - name: Check out source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: "3.12"
+
+      - name: Set temporary cache paths
+        run: |
+          printf '%s\n' \
+            "PYTHONPYCACHEPREFIX=${RUNNER_TEMP}/logsid-ci/pycache" \
+            "LOGSID_CACHE=${RUNNER_TEMP}/logsid-ci/cache" \
+            "HF_HOME=${RUNNER_TEMP}/logsid-ci/huggingface" >> "$GITHUB_ENV"
+
+      - name: Check Python and shell syntax
+        run: |
+          python -m compileall -q logshield scripts tests
+          bash -n run.sh scripts/setup.sh
+
+      - name: Install pinned CPU dependencies
+        env:
+          LOGSID_PYTHON: python
+        run: |
+          bash scripts/setup.sh cpu
+          .venv/bin/python -c 'import torch; assert torch.version.cuda is None, "Expected CPU-only PyTorch"; print("PyTorch", torch.__version__)'
+
+      - name: Run synthetic unit and integration tests
+        run: .venv/bin/python -m unittest discover -s tests -v
